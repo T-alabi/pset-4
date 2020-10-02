@@ -15,5 +15,7 @@ public class Exercise2 {
         System.out.println("Miles  : " + miles);
         System.out.println("Feet   : " + feet);
         System.out.println("Inches : " + leftOverInches);
+
+        in.close();
     }
 }
